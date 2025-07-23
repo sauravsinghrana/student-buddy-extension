@@ -85,7 +85,3 @@ Feel free to switch between modes based on your needs and explore the full capab
 ## Contributing
 Contributions are always welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request to contribute to the development of the AI Chrome Extension.
 
-<br> 
-
-## License
-The AI Chrome Extension is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
